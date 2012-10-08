@@ -1,0 +1,1542 @@
+2012-07-30 15:37:05 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-07-30 15:37:05 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-07-30 15:37:05 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 17 ms)
+2012-07-30 15:37:05 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-07-30 15:37:05 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-07-30 15:37:05 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 6 ms)
+2012-07-30 15:37:05 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 26 ms)
+2012-07-30 15:37:05 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-07-30 15:37:05 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-07-30 15:37:05 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-07-30 15:37:05 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-07-30 15:37:05 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 144 ms)
+2012-07-30 15:37:05 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-07-30 15:37:05 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-07-30 15:37:05 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-07-30 15:37:05 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 23 ms)
+2012-07-30 15:37:05 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 59 ms)
+2012-07-30 15:37:05 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-07-30 15:37:05 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-07-30 15:37:05 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 22 ms)
+2012-07-30 15:37:05 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 55 ms)
+2012-07-30 15:37:05 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-07-30 15:37:05 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-07-30 15:37:05 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-30 15:37:05 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-07-30 15:37:05 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 121 ms)
+2012-07-30 15:40:33 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-07-30 15:40:33 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-07-30 15:40:34 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1042 ms)
+2012-07-30 15:40:34 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-07-30 15:40:36 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2045 ms)
+2012-07-30 15:40:36 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3088 ms)
+2012-07-30 15:40:36 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-07-30 15:40:36 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-07-30 15:40:36 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-07-30 15:40:37 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 404 ms)
+2012-07-30 15:40:37 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 406 ms)
+2012-07-30 15:40:37 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-07-30 15:40:37 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-07-30 15:40:37 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-07-30 15:40:37 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 405 ms)
+2012-07-30 15:40:37 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1217 ms)
+2012-07-30 15:40:43 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-07-30 15:40:43 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-07-30 15:40:43 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 71 ms)
+2012-07-30 15:40:43 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-07-30 15:40:43 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-07-30 15:40:43 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 5 ms)
+2012-07-30 15:40:43 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 15 ms)
+2012-07-30 15:40:43 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-07-30 15:40:43 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-07-30 15:40:43 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-07-30 15:40:43 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-07-30 15:40:43 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 121 ms)
+2012-07-30 15:40:43 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-07-30 15:40:43 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-07-30 15:40:43 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-07-30 15:40:43 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 20 ms)
+2012-07-30 15:40:43 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 58 ms)
+2012-07-30 15:40:43 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-07-30 15:40:43 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-07-30 15:40:43 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 22 ms)
+2012-07-30 15:40:43 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 54 ms)
+2012-07-30 15:40:43 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-07-30 15:40:43 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-07-30 15:40:43 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-30 15:40:43 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-07-30 15:40:43 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 119 ms)
+2012-07-30 15:45:10 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-07-30 15:45:10 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-07-30 15:45:11 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1045 ms)
+2012-07-30 15:45:11 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-07-30 15:45:13 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2053 ms)
+2012-07-30 15:45:13 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3098 ms)
+2012-07-30 15:45:13 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-07-30 15:45:13 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-07-30 15:45:13 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-07-30 15:45:13 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 407 ms)
+2012-07-30 15:45:13 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 409 ms)
+2012-07-30 15:45:13 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-07-30 15:45:13 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-07-30 15:45:14 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-07-30 15:45:14 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 406 ms)
+2012-07-30 15:45:14 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1223 ms)
+2012-07-30 15:53:53 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-07-30 15:53:53 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-07-30 15:53:53 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 63 ms)
+2012-07-30 15:53:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-07-30 15:53:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-07-30 15:53:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 5 ms)
+2012-07-30 15:53:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 15 ms)
+2012-07-30 15:53:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-07-30 15:53:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-07-30 15:53:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 10 ms)
+2012-07-30 15:53:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 13 ms)
+2012-07-30 15:53:53 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 119 ms)
+2012-07-30 15:53:53 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-07-30 15:53:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-07-30 15:53:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-07-30 15:53:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 21 ms)
+2012-07-30 15:53:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 58 ms)
+2012-07-30 15:53:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-07-30 15:53:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-07-30 15:53:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 27 ms)
+2012-07-30 15:53:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 60 ms)
+2012-07-30 15:53:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-07-30 15:53:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-07-30 15:53:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-30 15:53:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-07-30 15:53:53 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 125 ms)
+2012-07-30 17:25:06 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-07-30 17:25:06 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-07-30 17:25:07 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1051 ms)
+2012-07-30 17:25:07 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-07-30 17:25:09 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2051 ms)
+2012-07-30 17:25:09 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3103 ms)
+2012-07-30 17:25:09 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-07-30 17:25:09 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-07-30 17:25:09 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-07-30 17:25:10 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 406 ms)
+2012-07-30 17:25:10 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 409 ms)
+2012-07-30 17:25:10 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-07-30 17:25:10 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-07-30 17:25:10 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-07-30 17:25:10 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 407 ms)
+2012-07-30 17:25:11 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1225 ms)
+2012-07-31 06:55:38 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-07-31 06:55:38 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-07-31 06:55:38 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 63 ms)
+2012-07-31 06:55:38 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-07-31 06:55:38 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-07-31 06:55:38 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 5 ms)
+2012-07-31 06:55:38 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 15 ms)
+2012-07-31 06:55:39 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-07-31 06:55:39 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-07-31 06:55:39 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-07-31 06:55:39 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-07-31 06:55:39 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 114 ms)
+2012-07-31 06:55:39 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-07-31 06:55:39 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-07-31 06:55:39 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-07-31 06:55:39 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 26 ms)
+2012-07-31 06:55:39 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 63 ms)
+2012-07-31 06:55:39 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-07-31 06:55:39 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-07-31 06:55:39 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 21 ms)
+2012-07-31 06:55:39 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 53 ms)
+2012-07-31 06:55:39 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-07-31 06:55:39 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-07-31 06:55:39 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-31 06:55:39 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-07-31 06:55:39 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 123 ms)
+2012-07-31 07:16:54 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-07-31 07:16:54 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-07-31 07:16:55 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1049 ms)
+2012-07-31 07:16:55 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-07-31 07:16:57 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2054 ms)
+2012-07-31 07:16:57 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3103 ms)
+2012-07-31 07:16:57 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-07-31 07:16:57 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-07-31 07:16:57 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-07-31 07:16:57 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 450 ms)
+2012-07-31 07:16:57 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 453 ms)
+2012-07-31 07:16:57 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-07-31 07:16:57 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-07-31 07:16:57 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 403 ms)
+2012-07-31 07:16:57 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 405 ms)
+2012-07-31 07:16:58 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1267 ms)
+2012-07-31 07:19:22 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-07-31 07:19:22 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-07-31 07:19:22 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 64 ms)
+2012-07-31 07:19:22 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-07-31 07:19:22 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-07-31 07:19:22 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 5 ms)
+2012-07-31 07:19:22 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 14 ms)
+2012-07-31 07:19:22 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-07-31 07:19:22 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-07-31 07:19:22 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-07-31 07:19:22 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-07-31 07:19:22 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 111 ms)
+2012-07-31 07:19:22 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-07-31 07:19:22 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-07-31 07:19:22 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-07-31 07:19:22 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 20 ms)
+2012-07-31 07:19:22 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 57 ms)
+2012-07-31 07:19:22 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-07-31 07:19:22 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-07-31 07:19:22 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 22 ms)
+2012-07-31 07:19:22 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 54 ms)
+2012-07-31 07:19:22 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-07-31 07:19:22 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-07-31 07:19:22 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-31 07:19:22 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-07-31 07:19:22 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 118 ms)
+2012-07-31 10:20:05 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-07-31 10:20:05 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-07-31 10:20:06 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1053 ms)
+2012-07-31 10:20:06 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-07-31 10:20:08 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2048 ms)
+2012-07-31 10:20:08 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3102 ms)
+2012-07-31 10:20:08 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-07-31 10:20:08 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-07-31 10:20:08 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-07-31 10:20:09 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 403 ms)
+2012-07-31 10:20:09 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 409 ms)
+2012-07-31 10:20:09 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-07-31 10:20:09 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-07-31 10:20:09 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 403 ms)
+2012-07-31 10:20:09 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 405 ms)
+2012-07-31 10:20:10 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1222 ms)
+2012-07-31 10:21:20 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-07-31 10:21:20 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-07-31 10:21:20 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 66 ms)
+2012-07-31 10:21:20 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-07-31 10:21:20 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-07-31 10:21:20 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 5 ms)
+2012-07-31 10:21:20 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 15 ms)
+2012-07-31 10:21:20 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-07-31 10:21:20 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-07-31 10:21:20 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-07-31 10:21:20 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-07-31 10:21:20 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 115 ms)
+2012-07-31 10:21:20 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-07-31 10:21:20 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-07-31 10:21:20 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-07-31 10:21:20 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 27 ms)
+2012-07-31 10:21:20 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 65 ms)
+2012-07-31 10:21:20 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-07-31 10:21:20 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-07-31 10:21:20 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 26 ms)
+2012-07-31 10:21:20 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 58 ms)
+2012-07-31 10:21:20 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-07-31 10:21:20 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-07-31 10:21:20 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-31 10:21:20 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-07-31 10:21:20 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 129 ms)
+2012-07-31 11:18:50 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-07-31 11:18:50 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-07-31 11:18:51 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1045 ms)
+2012-07-31 11:18:51 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-07-31 11:18:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2051 ms)
+2012-07-31 11:18:53 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3096 ms)
+2012-07-31 11:18:53 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-07-31 11:18:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-07-31 11:18:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-07-31 11:18:54 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 405 ms)
+2012-07-31 11:18:54 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 405 ms)
+2012-07-31 11:18:54 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-07-31 11:18:54 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-07-31 11:18:54 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-07-31 11:18:54 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 406 ms)
+2012-07-31 11:18:54 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1217 ms)
+2012-07-31 11:21:45 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-07-31 11:21:45 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-07-31 11:21:45 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 159 ms)
+2012-07-31 11:21:45 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-07-31 11:21:45 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-07-31 11:21:45 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 5 ms)
+2012-07-31 11:21:45 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 14 ms)
+2012-07-31 11:21:45 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-07-31 11:21:45 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-07-31 11:21:45 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-07-31 11:21:45 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-07-31 11:21:45 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 208 ms)
+2012-07-31 11:21:45 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-07-31 11:21:45 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-07-31 11:21:45 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-07-31 11:21:45 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 21 ms)
+2012-07-31 11:21:45 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 61 ms)
+2012-07-31 11:21:45 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-07-31 11:21:45 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-07-31 11:21:45 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-07-31 11:21:45 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 57 ms)
+2012-07-31 11:21:45 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-07-31 11:21:45 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-07-31 11:21:45 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-31 11:21:45 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-07-31 11:21:45 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 125 ms)
+2012-07-31 12:11:28 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-07-31 12:11:28 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-07-31 12:11:29 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1047 ms)
+2012-07-31 12:11:29 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-07-31 12:11:31 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2047 ms)
+2012-07-31 12:11:31 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3095 ms)
+2012-07-31 12:11:31 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-07-31 12:11:31 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-07-31 12:11:31 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-07-31 12:11:31 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 403 ms)
+2012-07-31 12:11:31 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 405 ms)
+2012-07-31 12:11:31 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-07-31 12:11:31 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-07-31 12:11:32 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-07-31 12:11:32 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 406 ms)
+2012-07-31 12:11:32 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1219 ms)
+2012-07-31 12:14:52 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-07-31 12:14:52 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-07-31 12:14:52 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 11 ms)
+2012-07-31 12:14:52 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-07-31 12:14:52 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-07-31 12:14:52 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 5 ms)
+2012-07-31 12:14:52 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 13 ms)
+2012-07-31 12:14:52 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-07-31 12:14:52 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-07-31 12:14:52 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-07-31 12:14:52 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-07-31 12:14:52 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 59 ms)
+2012-07-31 12:14:52 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-07-31 12:14:52 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-07-31 12:14:52 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-07-31 12:14:52 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 21 ms)
+2012-07-31 12:14:52 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 60 ms)
+2012-07-31 12:14:52 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-07-31 12:14:52 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-07-31 12:14:52 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 22 ms)
+2012-07-31 12:14:52 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 56 ms)
+2012-07-31 12:14:52 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-07-31 12:14:52 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-07-31 12:14:52 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-31 12:14:52 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-07-31 12:14:52 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 123 ms)
+2012-07-31 12:34:35 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-07-31 12:34:35 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-07-31 12:34:36 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1046 ms)
+2012-07-31 12:34:36 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-07-31 12:34:38 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2053 ms)
+2012-07-31 12:34:38 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3100 ms)
+2012-07-31 12:34:38 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-07-31 12:34:38 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-07-31 12:34:38 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-07-31 12:34:38 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 407 ms)
+2012-07-31 12:34:38 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 412 ms)
+2012-07-31 12:34:38 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-07-31 12:34:38 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-07-31 12:34:39 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-07-31 12:34:39 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 406 ms)
+2012-07-31 12:34:39 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1226 ms)
+2012-07-31 12:40:35 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-07-31 12:40:35 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-07-31 12:40:35 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 12 ms)
+2012-07-31 12:40:35 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-07-31 12:40:35 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-07-31 12:40:35 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 5 ms)
+2012-07-31 12:40:35 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 13 ms)
+2012-07-31 12:40:35 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-07-31 12:40:35 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-07-31 12:40:35 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 5 ms)
+2012-07-31 12:40:35 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-07-31 12:40:35 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 60 ms)
+2012-07-31 12:40:35 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-07-31 12:40:35 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-07-31 12:40:35 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-07-31 12:40:35 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 20 ms)
+2012-07-31 12:40:35 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 58 ms)
+2012-07-31 12:40:35 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-07-31 12:40:35 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-07-31 12:40:35 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-07-31 12:40:35 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 56 ms)
+2012-07-31 12:40:35 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-07-31 12:40:35 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-07-31 12:40:35 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-31 12:40:35 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-07-31 12:40:35 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 120 ms)
+2012-07-31 13:06:30 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-07-31 13:06:30 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-07-31 13:06:31 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1054 ms)
+2012-07-31 13:06:31 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-07-31 13:06:33 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2048 ms)
+2012-07-31 13:06:33 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3102 ms)
+2012-07-31 13:06:33 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-07-31 13:06:33 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-07-31 13:06:33 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-07-31 13:06:34 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 460 ms)
+2012-07-31 13:06:34 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 465 ms)
+2012-07-31 13:06:34 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-07-31 13:06:34 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-07-31 13:06:34 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-07-31 13:06:34 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 406 ms)
+2012-07-31 13:06:35 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1277 ms)
+2012-07-31 13:21:29 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-07-31 13:21:29 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-07-31 13:21:29 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 11 ms)
+2012-07-31 13:21:29 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-07-31 13:21:29 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-07-31 13:21:29 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 5 ms)
+2012-07-31 13:21:29 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 13 ms)
+2012-07-31 13:21:29 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-07-31 13:21:29 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-07-31 13:21:29 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-07-31 13:21:29 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-07-31 13:21:29 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 59 ms)
+2012-07-31 13:21:29 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-07-31 13:21:29 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-07-31 13:21:29 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-07-31 13:21:29 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 21 ms)
+2012-07-31 13:21:29 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 62 ms)
+2012-07-31 13:21:29 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-07-31 13:21:29 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-07-31 13:21:29 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 21 ms)
+2012-07-31 13:21:29 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 56 ms)
+2012-07-31 13:21:29 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-07-31 13:21:29 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-07-31 13:21:29 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-31 13:21:29 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-07-31 13:21:29 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 124 ms)
+2012-07-31 13:28:23 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-07-31 13:28:23 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-07-31 13:28:24 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1048 ms)
+2012-07-31 13:28:24 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-07-31 13:28:26 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2049 ms)
+2012-07-31 13:28:26 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3098 ms)
+2012-07-31 13:28:26 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-07-31 13:28:26 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-07-31 13:28:26 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-07-31 13:28:26 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 407 ms)
+2012-07-31 13:28:26 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 410 ms)
+2012-07-31 13:28:26 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-07-31 13:28:26 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-07-31 13:28:26 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-07-31 13:28:26 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 407 ms)
+2012-07-31 13:28:27 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1225 ms)
+2012-07-31 13:29:46 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-07-31 13:29:46 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-07-31 13:29:46 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 59 ms)
+2012-07-31 13:29:46 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-07-31 13:29:46 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-07-31 13:29:46 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 5 ms)
+2012-07-31 13:29:46 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 14 ms)
+2012-07-31 13:29:46 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-07-31 13:29:46 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-07-31 13:29:46 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-07-31 13:29:46 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-07-31 13:29:46 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 109 ms)
+2012-07-31 13:29:46 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-07-31 13:29:46 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-07-31 13:29:46 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-07-31 13:29:46 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 21 ms)
+2012-07-31 13:29:46 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 63 ms)
+2012-07-31 13:29:46 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-07-31 13:29:46 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-07-31 13:29:46 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-07-31 13:29:46 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 57 ms)
+2012-07-31 13:29:46 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-07-31 13:29:46 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-07-31 13:29:46 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-31 13:29:46 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 6 ms)
+2012-07-31 13:29:46 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 128 ms)
+2012-07-31 13:30:21 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-07-31 13:30:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-07-31 13:30:22 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1044 ms)
+2012-07-31 13:30:22 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-07-31 13:30:24 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2052 ms)
+2012-07-31 13:30:24 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3097 ms)
+2012-07-31 13:30:24 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-07-31 13:30:24 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-07-31 13:30:24 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-07-31 13:30:25 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 405 ms)
+2012-07-31 13:30:25 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 405 ms)
+2012-07-31 13:30:25 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-07-31 13:30:25 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-07-31 13:30:25 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 408 ms)
+2012-07-31 13:30:25 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 409 ms)
+2012-07-31 13:30:26 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1221 ms)
+2012-07-31 15:12:54 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-07-31 15:12:54 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-07-31 15:12:54 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 8 ms)
+2012-07-31 15:12:54 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-07-31 15:12:54 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-07-31 15:12:54 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 4 ms)
+2012-07-31 15:12:54 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 7 ms)
+2012-07-31 15:12:54 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-07-31 15:12:54 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-07-31 15:12:54 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-07-31 15:12:54 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-07-31 15:12:54 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 50 ms)
+2012-07-31 15:12:54 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-07-31 15:12:54 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-07-31 15:12:55 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-07-31 15:12:55 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 21 ms)
+2012-07-31 15:12:55 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 56 ms)
+2012-07-31 15:12:55 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-07-31 15:12:55 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-07-31 15:12:55 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 27 ms)
+2012-07-31 15:12:55 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 61 ms)
+2012-07-31 15:12:55 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-07-31 15:12:55 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-07-31 15:12:55 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-31 15:12:55 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-07-31 15:12:55 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 124 ms)
+2012-07-31 16:25:53 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-07-31 16:25:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-07-31 16:25:55 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 2048 ms)
+2012-07-31 16:25:55 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-07-31 16:25:57 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2050 ms)
+2012-07-31 16:25:57 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 4099 ms)
+2012-07-31 16:25:57 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-07-31 16:25:57 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-07-31 16:25:57 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-07-31 16:25:58 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 406 ms)
+2012-07-31 16:25:58 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 410 ms)
+2012-07-31 16:25:58 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-07-31 16:25:58 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-07-31 16:25:58 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-07-31 16:25:58 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 407 ms)
+2012-07-31 16:25:58 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1225 ms)
+2012-07-31 16:35:53 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-07-31 16:35:53 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-07-31 16:35:53 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 59 ms)
+2012-07-31 16:35:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-07-31 16:35:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-07-31 16:35:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 5 ms)
+2012-07-31 16:35:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 15 ms)
+2012-07-31 16:35:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-07-31 16:35:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-07-31 16:35:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-07-31 16:35:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-07-31 16:35:53 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 110 ms)
+2012-07-31 16:35:53 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-07-31 16:35:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-07-31 16:35:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-07-31 16:35:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 21 ms)
+2012-07-31 16:35:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 60 ms)
+2012-07-31 16:35:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-07-31 16:35:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-07-31 16:35:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-07-31 16:35:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 57 ms)
+2012-07-31 16:35:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-07-31 16:35:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-07-31 16:35:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-31 16:35:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-07-31 16:35:53 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 124 ms)
+2012-07-31 16:47:02 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-07-31 16:47:02 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-07-31 16:47:03 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1044 ms)
+2012-07-31 16:47:03 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-07-31 16:47:05 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2049 ms)
+2012-07-31 16:47:05 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3094 ms)
+2012-07-31 16:47:05 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-07-31 16:47:05 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-07-31 16:47:05 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-07-31 16:47:05 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 406 ms)
+2012-07-31 16:47:05 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 410 ms)
+2012-07-31 16:47:05 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-07-31 16:47:05 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-07-31 16:47:05 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-07-31 16:47:05 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 407 ms)
+2012-07-31 16:47:06 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1225 ms)
+2012-08-01 08:05:51 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-08-01 08:05:51 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-08-01 08:05:52 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 737 ms)
+2012-08-01 08:05:52 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-08-01 08:05:52 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-08-01 08:05:52 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 71 ms)
+2012-08-01 08:05:52 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 224 ms)
+2012-08-01 08:05:52 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-08-01 08:05:52 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-08-01 08:05:52 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 90 ms)
+2012-08-01 08:05:52 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 106 ms)
+2012-08-01 08:05:52 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 1346 ms)
+2012-08-01 08:05:52 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-08-01 08:05:52 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-08-01 08:05:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-08-01 08:05:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 57 ms)
+2012-08-01 08:05:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 532 ms)
+2012-08-01 08:05:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-08-01 08:05:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-08-01 08:05:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-08-01 08:05:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 58 ms)
+2012-08-01 08:05:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-08-01 08:05:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-08-01 08:05:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-01 08:05:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 52 ms)
+2012-08-01 08:05:53 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 643 ms)
+2012-08-01 08:15:01 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-08-01 08:15:01 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-08-01 08:15:02 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1054 ms)
+2012-08-01 08:15:02 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-08-01 08:15:04 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2051 ms)
+2012-08-01 08:15:04 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3106 ms)
+2012-08-01 08:15:04 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-08-01 08:15:04 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-08-01 08:15:04 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-08-01 08:15:05 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 406 ms)
+2012-08-01 08:15:05 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 407 ms)
+2012-08-01 08:15:05 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-08-01 08:15:05 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-08-01 08:15:05 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-08-01 08:15:05 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 427 ms)
+2012-08-01 08:15:05 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1244 ms)
+2012-08-01 08:28:32 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-08-01 08:28:32 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-08-01 08:28:32 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 13 ms)
+2012-08-01 08:28:32 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-08-01 08:28:32 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-08-01 08:28:32 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 37 ms)
+2012-08-01 08:28:32 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 50 ms)
+2012-08-01 08:28:32 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-08-01 08:28:32 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-08-01 08:28:32 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 7 ms)
+2012-08-01 08:28:32 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 10 ms)
+2012-08-01 08:28:32 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 102 ms)
+2012-08-01 08:28:32 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-08-01 08:28:32 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-08-01 08:28:32 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-08-01 08:28:32 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 27 ms)
+2012-08-01 08:28:32 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 65 ms)
+2012-08-01 08:28:32 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-08-01 08:28:32 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-08-01 08:28:32 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 22 ms)
+2012-08-01 08:28:32 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 55 ms)
+2012-08-01 08:28:32 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-08-01 08:28:32 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-08-01 08:28:32 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-01 08:28:32 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-08-01 08:28:32 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 127 ms)
+2012-08-01 09:32:44 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-08-01 09:32:44 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-08-01 09:32:45 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1045 ms)
+2012-08-01 09:32:45 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-08-01 09:32:47 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2053 ms)
+2012-08-01 09:32:47 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3099 ms)
+2012-08-01 09:32:47 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-08-01 09:32:47 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-08-01 09:32:47 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-08-01 09:32:48 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 463 ms)
+2012-08-01 09:32:48 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 465 ms)
+2012-08-01 09:32:48 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-08-01 09:32:48 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-08-01 09:32:48 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-08-01 09:32:48 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 426 ms)
+2012-08-01 09:32:49 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1298 ms)
+2012-08-01 09:33:46 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-08-01 09:33:46 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-08-01 09:33:46 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 65 ms)
+2012-08-01 09:33:46 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-08-01 09:33:46 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-08-01 09:33:46 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 5 ms)
+2012-08-01 09:33:46 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 14 ms)
+2012-08-01 09:33:46 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-08-01 09:33:46 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-08-01 09:33:46 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-08-01 09:33:46 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-08-01 09:33:46 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 117 ms)
+2012-08-01 09:33:46 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-08-01 09:33:46 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-08-01 09:33:46 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-08-01 09:33:46 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 21 ms)
+2012-08-01 09:33:46 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 61 ms)
+2012-08-01 09:33:46 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-08-01 09:33:46 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-08-01 09:33:46 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-08-01 09:33:46 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 57 ms)
+2012-08-01 09:33:46 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-08-01 09:33:46 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-08-01 09:33:46 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-01 09:33:46 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-08-01 09:33:46 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 125 ms)
+2012-08-01 09:55:33 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-08-01 09:55:33 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-08-01 09:55:34 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1047 ms)
+2012-08-01 09:55:34 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-08-01 09:55:36 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2058 ms)
+2012-08-01 09:55:36 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3106 ms)
+2012-08-01 09:55:36 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-08-01 09:55:36 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-08-01 09:55:36 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-08-01 09:55:37 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 405 ms)
+2012-08-01 09:55:37 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 408 ms)
+2012-08-01 09:55:37 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-08-01 09:55:37 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-08-01 09:55:37 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-08-01 09:55:37 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 405 ms)
+2012-08-01 09:55:38 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1219 ms)
+2012-08-01 09:57:35 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-08-01 09:57:35 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-08-01 09:57:35 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 15 ms)
+2012-08-01 09:57:35 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-08-01 09:57:35 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-08-01 09:57:35 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 5 ms)
+2012-08-01 09:57:35 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 16 ms)
+2012-08-01 09:57:35 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-08-01 09:57:35 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-08-01 09:57:35 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-08-01 09:57:35 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-08-01 09:57:35 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 67 ms)
+2012-08-01 09:57:35 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-08-01 09:57:35 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-08-01 09:57:35 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-08-01 09:57:35 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 22 ms)
+2012-08-01 09:57:35 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 61 ms)
+2012-08-01 09:57:35 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-08-01 09:57:35 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-08-01 09:57:36 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 27 ms)
+2012-08-01 09:57:36 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 61 ms)
+2012-08-01 09:57:36 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-08-01 09:57:36 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-08-01 09:57:36 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-01 09:57:36 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-08-01 09:57:36 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 129 ms)
+2012-08-01 11:28:03 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-08-01 11:28:03 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-08-01 11:28:04 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1047 ms)
+2012-08-01 11:28:04 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-08-01 11:28:06 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2052 ms)
+2012-08-01 11:28:06 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3100 ms)
+2012-08-01 11:28:06 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-08-01 11:28:06 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-08-01 11:28:06 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-08-01 11:28:07 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 406 ms)
+2012-08-01 11:28:07 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 411 ms)
+2012-08-01 11:28:07 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-08-01 11:28:07 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-08-01 11:28:07 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-08-01 11:28:07 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 406 ms)
+2012-08-01 11:28:07 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1226 ms)
+2012-08-01 11:30:07 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-08-01 11:30:07 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-08-01 11:30:07 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 440 ms)
+2012-08-01 11:30:07 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-08-01 11:30:07 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-08-01 11:30:07 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 21 ms)
+2012-08-01 11:30:07 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 31 ms)
+2012-08-01 11:30:07 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-08-01 11:30:07 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-08-01 11:30:07 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 38 ms)
+2012-08-01 11:30:07 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 41 ms)
+2012-08-01 11:30:07 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 542 ms)
+2012-08-01 11:30:07 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-08-01 11:30:07 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-08-01 11:30:07 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-08-01 11:30:07 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 22 ms)
+2012-08-01 11:30:07 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 63 ms)
+2012-08-01 11:30:07 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-08-01 11:30:07 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-08-01 11:30:07 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-08-01 11:30:07 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 56 ms)
+2012-08-01 11:30:07 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-08-01 11:30:07 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-08-01 11:30:07 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-01 11:30:07 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-08-01 11:30:07 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 126 ms)
+2012-08-01 12:49:54 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-08-01 12:49:54 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-08-01 12:49:55 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1124 ms)
+2012-08-01 12:49:55 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-08-01 12:49:57 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2050 ms)
+2012-08-01 12:49:57 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3174 ms)
+2012-08-01 12:49:57 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-08-01 12:49:57 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-08-01 12:49:57 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-08-01 12:49:58 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 404 ms)
+2012-08-01 12:49:58 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 410 ms)
+2012-08-01 12:49:58 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-08-01 12:49:58 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-08-01 12:49:58 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 416 ms)
+2012-08-01 12:49:58 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 432 ms)
+2012-08-01 12:49:59 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1251 ms)
+2012-08-01 15:10:02 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-08-01 15:10:02 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-08-01 15:10:02 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 12 ms)
+2012-08-01 15:10:02 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-08-01 15:10:02 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-08-01 15:10:02 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 5 ms)
+2012-08-01 15:10:02 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 25 ms)
+2012-08-01 15:10:02 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-08-01 15:10:02 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-08-01 15:10:02 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-08-01 15:10:02 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-08-01 15:10:02 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 74 ms)
+2012-08-01 15:10:02 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-08-01 15:10:02 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-08-01 15:10:02 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-08-01 15:10:02 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 21 ms)
+2012-08-01 15:10:02 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 62 ms)
+2012-08-01 15:10:02 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-08-01 15:10:03 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-08-01 15:10:03 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 22 ms)
+2012-08-01 15:10:03 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 55 ms)
+2012-08-01 15:10:03 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-08-01 15:10:03 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-08-01 15:10:03 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-01 15:10:03 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-08-01 15:10:03 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 123 ms)
+2012-08-01 16:04:56 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-08-01 16:04:56 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-08-01 16:04:57 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1045 ms)
+2012-08-01 16:04:57 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-08-01 16:04:59 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2052 ms)
+2012-08-01 16:04:59 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3098 ms)
+2012-08-01 16:04:59 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-08-01 16:04:59 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-08-01 16:04:59 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-08-01 16:05:00 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 406 ms)
+2012-08-01 16:05:00 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 408 ms)
+2012-08-01 16:05:00 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-08-01 16:05:00 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-08-01 16:05:00 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-08-01 16:05:00 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 407 ms)
+2012-08-01 16:05:00 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1223 ms)
+2012-08-02 07:36:21 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-08-02 07:36:21 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-08-02 07:36:21 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 11 ms)
+2012-08-02 07:36:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-08-02 07:36:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-08-02 07:36:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 5 ms)
+2012-08-02 07:36:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 14 ms)
+2012-08-02 07:36:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-08-02 07:36:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-08-02 07:36:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 5 ms)
+2012-08-02 07:36:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-08-02 07:36:21 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 62 ms)
+2012-08-02 07:36:21 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-08-02 07:36:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-08-02 07:36:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-08-02 07:36:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 20 ms)
+2012-08-02 07:36:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 66 ms)
+2012-08-02 07:36:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-08-02 07:36:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-08-02 07:36:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 22 ms)
+2012-08-02 07:36:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 55 ms)
+2012-08-02 07:36:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-08-02 07:36:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-08-02 07:36:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-02 07:36:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-08-02 07:36:21 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 128 ms)
+2012-08-02 08:26:44 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-08-02 08:26:44 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-08-02 08:26:45 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1045 ms)
+2012-08-02 08:26:45 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-08-02 08:26:47 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2048 ms)
+2012-08-02 08:26:47 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3093 ms)
+2012-08-02 08:26:47 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-08-02 08:26:47 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-08-02 08:26:47 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-08-02 08:26:48 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 453 ms)
+2012-08-02 08:26:48 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 453 ms)
+2012-08-02 08:26:48 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-08-02 08:26:48 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-08-02 08:26:48 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 406 ms)
+2012-08-02 08:26:48 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 407 ms)
+2012-08-02 08:26:49 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1267 ms)
+2012-08-02 09:04:21 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-08-02 09:04:21 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-08-02 09:04:21 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 31 ms)
+2012-08-02 09:04:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-08-02 09:04:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-08-02 09:04:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 16 ms)
+2012-08-02 09:04:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 26 ms)
+2012-08-02 09:04:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-08-02 09:04:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-08-02 09:04:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 6 ms)
+2012-08-02 09:04:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 26 ms)
+2012-08-02 09:04:21 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 121 ms)
+2012-08-02 09:04:21 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-08-02 09:04:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-08-02 09:04:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-08-02 09:04:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 21 ms)
+2012-08-02 09:04:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 59 ms)
+2012-08-02 09:04:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-08-02 09:04:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-08-02 09:04:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-08-02 09:04:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 57 ms)
+2012-08-02 09:04:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-08-02 09:04:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-08-02 09:04:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-02 09:04:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-08-02 09:04:21 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 123 ms)
+2012-08-02 09:24:47 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-08-02 09:24:47 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-08-02 09:24:48 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1050 ms)
+2012-08-02 09:24:48 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-08-02 09:24:50 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2052 ms)
+2012-08-02 09:24:50 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3102 ms)
+2012-08-02 09:24:50 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-08-02 09:24:50 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-08-02 09:24:50 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-08-02 09:24:50 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 453 ms)
+2012-08-02 09:24:50 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 455 ms)
+2012-08-02 09:24:50 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-08-02 09:24:50 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-08-02 09:24:51 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-08-02 09:24:51 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 405 ms)
+2012-08-02 09:24:51 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1267 ms)
+2012-08-02 09:27:13 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-08-02 09:27:13 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-08-02 09:27:13 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 86 ms)
+2012-08-02 09:27:13 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-08-02 09:27:13 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-08-02 09:27:13 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 5 ms)
+2012-08-02 09:27:13 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 14 ms)
+2012-08-02 09:27:13 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-08-02 09:27:13 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-08-02 09:27:13 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-08-02 09:27:13 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-08-02 09:27:13 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 136 ms)
+2012-08-02 09:27:13 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-08-02 09:27:13 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-08-02 09:27:13 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-08-02 09:27:13 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 22 ms)
+2012-08-02 09:27:13 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 61 ms)
+2012-08-02 09:27:13 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-08-02 09:27:13 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-08-02 09:27:13 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-08-02 09:27:13 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 57 ms)
+2012-08-02 09:27:13 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-08-02 09:27:13 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-08-02 09:27:13 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-02 09:27:13 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-08-02 09:27:13 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 125 ms)
+2012-08-02 09:30:47 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-08-02 09:30:47 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-08-02 09:30:48 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1048 ms)
+2012-08-02 09:30:48 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-08-02 09:30:50 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2047 ms)
+2012-08-02 09:30:50 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3096 ms)
+2012-08-02 09:30:50 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-08-02 09:30:50 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-08-02 09:30:50 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-08-02 09:30:50 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 405 ms)
+2012-08-02 09:30:50 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 405 ms)
+2012-08-02 09:30:50 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-08-02 09:30:50 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-08-02 09:30:51 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-08-02 09:30:51 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 405 ms)
+2012-08-02 09:30:51 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1216 ms)
+2012-08-02 09:41:21 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-08-02 09:41:21 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-08-02 09:41:21 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 11 ms)
+2012-08-02 09:41:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-08-02 09:41:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-08-02 09:41:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 5 ms)
+2012-08-02 09:41:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 13 ms)
+2012-08-02 09:41:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-08-02 09:41:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-08-02 09:41:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-08-02 09:41:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-08-02 09:41:21 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 60 ms)
+2012-08-02 09:41:21 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-08-02 09:41:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-08-02 09:41:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-08-02 09:41:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 22 ms)
+2012-08-02 09:41:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 61 ms)
+2012-08-02 09:41:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-08-02 09:41:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-08-02 09:41:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-08-02 09:41:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 56 ms)
+2012-08-02 09:41:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-08-02 09:41:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-08-02 09:41:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-02 09:41:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-08-02 09:41:21 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 124 ms)
+2012-08-02 09:59:04 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-08-02 09:59:04 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-08-02 09:59:05 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1067 ms)
+2012-08-02 09:59:05 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-08-02 09:59:07 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2053 ms)
+2012-08-02 09:59:07 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3121 ms)
+2012-08-02 09:59:07 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-08-02 09:59:07 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-08-02 09:59:07 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-08-02 09:59:08 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 405 ms)
+2012-08-02 09:59:08 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 405 ms)
+2012-08-02 09:59:08 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-08-02 09:59:08 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-08-02 09:59:08 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-08-02 09:59:08 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 406 ms)
+2012-08-02 09:59:09 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1220 ms)
+2012-08-02 10:03:34 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-08-02 10:03:34 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-08-02 10:03:34 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 12 ms)
+2012-08-02 10:03:34 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-08-02 10:03:34 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-08-02 10:03:34 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 5 ms)
+2012-08-02 10:03:34 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 50 ms)
+2012-08-02 10:03:34 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-08-02 10:03:34 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-08-02 10:03:34 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-08-02 10:03:34 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-08-02 10:03:34 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 98 ms)
+2012-08-02 10:03:34 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-08-02 10:03:34 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-08-02 10:03:34 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-08-02 10:03:34 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 22 ms)
+2012-08-02 10:03:34 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 63 ms)
+2012-08-02 10:03:34 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-08-02 10:03:34 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-08-02 10:03:34 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-08-02 10:03:34 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 59 ms)
+2012-08-02 10:03:34 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-08-02 10:03:34 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-08-02 10:03:34 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-02 10:03:34 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 6 ms)
+2012-08-02 10:03:34 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 129 ms)
+2012-08-02 10:42:22 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-08-02 10:42:22 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-08-02 10:42:23 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1049 ms)
+2012-08-02 10:42:23 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-08-02 10:42:25 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2055 ms)
+2012-08-02 10:42:25 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3105 ms)
+2012-08-02 10:42:25 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-08-02 10:42:25 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-08-02 10:42:25 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-08-02 10:42:25 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 406 ms)
+2012-08-02 10:42:25 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 411 ms)
+2012-08-02 10:42:25 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-08-02 10:42:25 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-08-02 10:42:26 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-08-02 10:42:26 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 406 ms)
+2012-08-02 10:42:26 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1225 ms)
+2012-08-02 11:41:04 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-08-02 11:41:04 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-08-02 11:41:04 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 32 ms)
+2012-08-02 11:41:04 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-08-02 11:41:04 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-08-02 11:41:04 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 5 ms)
+2012-08-02 11:41:04 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 14 ms)
+2012-08-02 11:41:04 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-08-02 11:41:04 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-08-02 11:41:04 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-08-02 11:41:04 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 34 ms)
+2012-08-02 11:41:04 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 130 ms)
+2012-08-02 11:41:04 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-08-02 11:41:04 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-08-02 11:41:04 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-08-02 11:41:04 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 22 ms)
+2012-08-02 11:41:04 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 70 ms)
+2012-08-02 11:41:04 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-08-02 11:41:04 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-08-02 11:41:04 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-08-02 11:41:04 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 59 ms)
+2012-08-02 11:41:04 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-08-02 11:41:04 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-08-02 11:41:04 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-02 11:41:04 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-08-02 11:41:04 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 136 ms)
+2012-08-02 12:30:53 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-08-02 12:30:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-08-02 12:30:55 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1077 ms)
+2012-08-02 12:30:55 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-08-02 12:30:57 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2049 ms)
+2012-08-02 12:30:57 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3127 ms)
+2012-08-02 12:30:57 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-08-02 12:30:57 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-08-02 12:30:57 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-08-02 12:30:57 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 465 ms)
+2012-08-02 12:30:57 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 470 ms)
+2012-08-02 12:30:57 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-08-02 12:30:57 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-08-02 12:30:57 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-08-02 12:30:57 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 419 ms)
+2012-08-02 12:30:58 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1297 ms)
+2012-08-02 15:39:50 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-08-02 15:39:50 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-08-02 15:39:50 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 17 ms)
+2012-08-02 15:39:50 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-08-02 15:39:50 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-08-02 15:39:50 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 5 ms)
+2012-08-02 15:39:50 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 22 ms)
+2012-08-02 15:39:50 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-08-02 15:39:50 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-08-02 15:39:50 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-08-02 15:39:50 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 14 ms)
+2012-08-02 15:39:50 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 84 ms)
+2012-08-02 15:39:50 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-08-02 15:39:50 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-08-02 15:39:50 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-08-02 15:39:50 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 27 ms)
+2012-08-02 15:39:50 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 66 ms)
+2012-08-02 15:39:50 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-08-02 15:39:51 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-08-02 15:39:51 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 22 ms)
+2012-08-02 15:39:51 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 56 ms)
+2012-08-02 15:39:51 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-08-02 15:39:51 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-08-02 15:39:51 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-02 15:39:51 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-08-02 15:39:51 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 129 ms)
+2012-08-02 16:02:08 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-08-02 16:02:08 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-08-02 16:02:09 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1048 ms)
+2012-08-02 16:02:09 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-08-02 16:02:12 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2052 ms)
+2012-08-02 16:02:12 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3100 ms)
+2012-08-02 16:02:12 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-08-02 16:02:12 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-08-02 16:02:12 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-08-02 16:02:12 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 405 ms)
+2012-08-02 16:02:12 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 407 ms)
+2012-08-02 16:02:12 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-08-02 16:02:12 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-08-02 16:02:12 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-08-02 16:02:12 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 423 ms)
+2012-08-02 16:02:13 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1237 ms)
+2012-08-02 16:07:37 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-08-02 16:07:37 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-08-02 16:07:37 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 13 ms)
+2012-08-02 16:07:37 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-08-02 16:07:37 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-08-02 16:07:37 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 5 ms)
+2012-08-02 16:07:37 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 14 ms)
+2012-08-02 16:07:37 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-08-02 16:07:38 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-08-02 16:07:38 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-08-02 16:07:38 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-08-02 16:07:38 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 63 ms)
+2012-08-02 16:07:38 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-08-02 16:07:38 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-08-02 16:07:38 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-08-02 16:07:38 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 25 ms)
+2012-08-02 16:07:38 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 65 ms)
+2012-08-02 16:07:38 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-08-02 16:07:38 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-08-02 16:07:38 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 27 ms)
+2012-08-02 16:07:38 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 61 ms)
+2012-08-02 16:07:38 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-08-02 16:07:38 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-08-02 16:07:38 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-02 16:07:38 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-08-02 16:07:38 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 132 ms)
+2012-08-02 16:42:59 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-08-02 16:42:59 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-08-02 16:43:00 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1048 ms)
+2012-08-02 16:43:00 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-08-02 16:43:02 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2052 ms)
+2012-08-02 16:43:02 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3101 ms)
+2012-08-02 16:43:02 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-08-02 16:43:02 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-08-02 16:43:02 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-08-02 16:43:03 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 404 ms)
+2012-08-02 16:43:03 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 406 ms)
+2012-08-02 16:43:03 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-08-02 16:43:03 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-08-02 16:43:03 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-08-02 16:43:03 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 406 ms)
+2012-08-02 16:43:04 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1220 ms)
+2012-08-03 05:05:00 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-08-03 05:05:00 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-08-03 05:05:00 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 13 ms)
+2012-08-03 05:05:00 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-08-03 05:05:00 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-08-03 05:05:00 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 5 ms)
+2012-08-03 05:05:00 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 27 ms)
+2012-08-03 05:05:00 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-08-03 05:05:00 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-08-03 05:05:00 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 5 ms)
+2012-08-03 05:05:00 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 11 ms)
+2012-08-03 05:05:00 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 80 ms)
+2012-08-03 05:05:00 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-08-03 05:05:00 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-08-03 05:05:00 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-08-03 05:05:00 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 22 ms)
+2012-08-03 05:05:00 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 118 ms)
+2012-08-03 05:05:00 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-08-03 05:05:00 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-08-03 05:05:00 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 24 ms)
+2012-08-03 05:05:00 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 60 ms)
+2012-08-03 05:05:00 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-08-03 05:05:00 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-08-03 05:05:00 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-03 05:05:00 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 17 ms)
+2012-08-03 05:05:00 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 197 ms)
+2012-08-03 08:49:01 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-08-03 08:49:01 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-08-03 08:49:02 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1089 ms)
+2012-08-03 08:49:02 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-08-03 08:49:04 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2048 ms)
+2012-08-03 08:49:04 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3138 ms)
+2012-08-03 08:49:04 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-08-03 08:49:04 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-08-03 08:49:04 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-08-03 08:49:04 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 405 ms)
+2012-08-03 08:49:04 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 411 ms)
+2012-08-03 08:49:04 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-08-03 08:49:04 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-08-03 08:49:05 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-08-03 08:49:05 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 423 ms)
+2012-08-03 08:49:05 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1241 ms)
+2012-08-06 07:15:21 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-08-06 07:15:21 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-08-06 07:15:22 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 468 ms)
+2012-08-06 07:15:22 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-08-06 07:15:22 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-08-06 07:15:22 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 53 ms)
+2012-08-06 07:15:22 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 198 ms)
+2012-08-06 07:15:22 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-08-06 07:15:22 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-08-06 07:15:22 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 61 ms)
+2012-08-06 07:15:22 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 98 ms)
+2012-08-06 07:15:22 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 898 ms)
+2012-08-06 07:15:22 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-08-06 07:15:22 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-08-06 07:15:23 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-08-06 07:15:23 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 44 ms)
+2012-08-06 07:15:23 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 388 ms)
+2012-08-06 07:15:23 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-08-06 07:15:23 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-08-06 07:15:23 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 22 ms)
+2012-08-06 07:15:23 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 56 ms)
+2012-08-06 07:15:23 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-08-06 07:15:23 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-08-06 07:15:23 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-06 07:15:23 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 59 ms)
+2012-08-06 07:15:23 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 506 ms)
+2012-08-06 07:16:30 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-08-06 07:16:30 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-08-06 07:16:31 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1053 ms)
+2012-08-06 07:16:31 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-08-06 07:16:33 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2053 ms)
+2012-08-06 07:16:33 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3107 ms)
+2012-08-06 07:16:33 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-08-06 07:16:33 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-08-06 07:16:33 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-08-06 07:16:33 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 406 ms)
+2012-08-06 07:16:33 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 406 ms)
+2012-08-06 07:16:33 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-08-06 07:16:33 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-08-06 07:16:34 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-08-06 07:16:34 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 426 ms)
+2012-08-06 07:16:34 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1241 ms)
+2012-08-06 07:16:50 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-08-06 07:16:50 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-08-06 07:16:50 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 103 ms)
+2012-08-06 07:16:50 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-08-06 07:16:50 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-08-06 07:16:50 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 7 ms)
+2012-08-06 07:16:50 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 20 ms)
+2012-08-06 07:16:50 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-08-06 07:16:50 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-08-06 07:16:50 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-08-06 07:16:50 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-08-06 07:16:50 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 160 ms)
+2012-08-06 07:16:50 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-08-06 07:16:50 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-08-06 07:16:51 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-08-06 07:16:51 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 21 ms)
+2012-08-06 07:16:51 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 60 ms)
+2012-08-06 07:16:51 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-08-06 07:16:51 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-08-06 07:16:51 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 28 ms)
+2012-08-06 07:16:51 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 62 ms)
+2012-08-06 07:16:51 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-08-06 07:16:51 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-08-06 07:16:51 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-06 07:16:51 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-08-06 07:16:51 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 128 ms)
+2012-08-06 07:46:01 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-08-06 07:46:01 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-08-06 07:46:02 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1101 ms)
+2012-08-06 07:46:02 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-08-06 07:46:04 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2047 ms)
+2012-08-06 07:46:04 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3149 ms)
+2012-08-06 07:46:04 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-08-06 07:46:04 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-08-06 07:46:04 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-08-06 07:46:04 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 464 ms)
+2012-08-06 07:46:04 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 467 ms)
+2012-08-06 07:46:04 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-08-06 07:46:04 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-08-06 07:46:05 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 403 ms)
+2012-08-06 07:46:05 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 405 ms)
+2012-08-06 07:46:05 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1279 ms)
+2012-08-06 11:37:25 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-08-06 11:37:25 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-08-06 11:37:25 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 19 ms)
+2012-08-06 11:37:25 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-08-06 11:37:25 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-08-06 11:37:25 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 18 ms)
+2012-08-06 11:37:25 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 39 ms)
+2012-08-06 11:37:25 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-08-06 11:37:25 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-08-06 11:37:25 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 5 ms)
+2012-08-06 11:37:25 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-08-06 11:37:25 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 114 ms)
+2012-08-06 11:37:25 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-08-06 11:37:25 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-08-06 11:37:25 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-08-06 11:37:25 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 21 ms)
+2012-08-06 11:37:25 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 60 ms)
+2012-08-06 11:37:25 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-08-06 11:37:25 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-08-06 11:37:25 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-08-06 11:37:25 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 56 ms)
+2012-08-06 11:37:25 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-08-06 11:37:25 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-08-06 11:37:25 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-06 11:37:25 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-08-06 11:37:25 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 122 ms)
+2012-08-06 11:43:11 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-08-06 11:43:11 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-08-06 11:43:12 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1050 ms)
+2012-08-06 11:43:12 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-08-06 11:43:14 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2053 ms)
+2012-08-06 11:43:14 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3103 ms)
+2012-08-06 11:43:14 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-08-06 11:43:14 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-08-06 11:43:14 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-08-06 11:43:14 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 404 ms)
+2012-08-06 11:43:14 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 408 ms)
+2012-08-06 11:43:14 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-08-06 11:43:14 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-08-06 11:43:15 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-08-06 11:43:15 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 421 ms)
+2012-08-06 11:43:15 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1239 ms)
+2012-08-06 17:01:57 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-08-06 17:01:57 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-08-06 17:01:57 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 16 ms)
+2012-08-06 17:01:57 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-08-06 17:01:57 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-08-06 17:01:57 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 18 ms)
+2012-08-06 17:01:57 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 59 ms)
+2012-08-06 17:01:57 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-08-06 17:01:57 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the database
+2012-08-06 17:01:57 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database opened (duration: 9 ms)
+2012-08-06 17:01:57 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 16 ms)
+2012-08-06 17:01:57 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 150 ms)
+2012-08-06 17:01:57 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-08-06 17:01:57 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-08-06 17:01:57 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-08-06 17:01:57 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 20 ms)
+2012-08-06 17:01:57 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 70 ms)
+2012-08-06 17:01:57 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-08-06 17:01:57 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-08-06 17:01:57 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 22 ms)
+2012-08-06 17:01:57 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 57 ms)
+2012-08-06 17:01:57 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-08-06 17:01:57 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-08-06 17:01:57 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-06 17:01:58 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 573 ms)
+2012-08-06 17:01:58 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 701 ms)
+2012-08-06 17:09:26 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-08-06 17:09:26 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-08-06 17:09:27 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1046 ms)
+2012-08-06 17:09:27 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-08-06 17:09:29 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2048 ms)
+2012-08-06 17:09:29 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3095 ms)
+2012-08-06 17:09:29 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-08-06 17:09:29 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-08-06 17:09:29 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-08-06 17:09:29 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 406 ms)
+2012-08-06 17:09:29 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 412 ms)
+2012-08-06 17:09:29 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-08-06 17:09:29 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the database
+2012-08-06 17:09:30 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-08-06 17:09:30 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 406 ms)
+2012-08-06 17:09:30 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1227 ms)
+2012-08-24 12:57:32 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-08-24 12:57:32 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-08-24 12:57:32 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 29 ms)
+2012-08-24 12:57:32 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-08-24 12:57:32 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-08-24 12:57:32 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 18 ms)
+2012-08-24 12:57:32 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 55 ms)
+2012-08-24 12:57:32 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-08-24 12:57:32 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 5 ms)
+2012-08-24 12:57:32 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 134 ms)
+2012-08-24 12:57:32 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-08-24 12:57:32 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-08-24 12:57:32 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-08-24 12:57:32 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 23 ms)
+2012-08-24 12:57:32 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 68 ms)
+2012-08-24 12:57:32 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-08-24 12:57:32 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-08-24 12:57:32 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 24 ms)
+2012-08-24 12:57:32 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 66 ms)
+2012-08-24 12:57:32 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-08-24 12:57:32 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-08-24 12:57:32 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-24 12:57:32 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2012-08-24 12:57:32 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 144 ms)
+2012-08-24 14:38:35 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-08-24 14:38:35 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-08-24 14:38:36 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1079 ms)
+2012-08-24 14:38:36 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-08-24 14:38:38 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2049 ms)
+2012-08-24 14:38:38 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3129 ms)
+2012-08-24 14:38:38 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-08-24 14:38:38 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-08-24 14:38:38 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-08-24 14:38:38 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 405 ms)
+2012-08-24 14:38:38 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 408 ms)
+2012-08-24 14:38:38 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-08-24 14:38:38 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 1 ms)
+2012-08-24 14:38:39 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 816 ms)
+2012-08-24 15:15:15 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-08-24 15:15:15 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-08-24 15:15:16 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 501 ms)
+2012-08-24 15:15:16 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-08-24 15:15:16 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-08-24 15:15:16 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 10 ms)
+2012-08-24 15:15:16 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 99 ms)
+2012-08-24 15:15:16 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-08-24 15:15:16 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 9 ms)
+2012-08-24 15:15:16 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 665 ms)
+2012-08-24 15:15:16 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-08-24 15:15:16 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-08-24 15:15:16 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-08-24 15:15:16 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 23 ms)
+2012-08-24 15:15:16 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 135 ms)
+2012-08-24 15:15:16 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-08-24 15:15:16 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-08-24 15:15:16 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-08-24 15:15:16 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 61 ms)
+2012-08-24 15:15:16 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-08-24 15:15:16 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-08-24 15:15:16 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-24 15:15:16 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 42 ms)
+2012-08-24 15:15:16 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 239 ms)
+2012-08-24 18:01:18 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-08-24 18:01:18 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-08-24 18:01:20 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1077 ms)
+2012-08-24 18:01:20 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-08-24 18:01:22 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2052 ms)
+2012-08-24 18:01:22 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 3129 ms)
+2012-08-24 18:01:22 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-08-24 18:01:22 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-08-24 18:01:22 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-08-24 18:01:22 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 403 ms)
+2012-08-24 18:01:22 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 405 ms)
+2012-08-24 18:01:22 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-08-24 18:01:22 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 2 ms)
+2012-08-24 18:01:22 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 813 ms)
+2012-10-08 08:16:00 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-10-08 08:16:00 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-10-08 08:16:00 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 23 ms)
+2012-10-08 08:16:00 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-10-08 08:16:00 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-10-08 08:16:00 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 33 ms)
+2012-10-08 08:16:00 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 63 ms)
+2012-10-08 08:16:00 [com.wakanda-software.Wakanday2012.Javascript] INFO - Opening the project
+2012-10-08 08:16:00 [com.wakanda-software.Wakanday2012.Javascript] INFO - Opening the database
+2012-10-08 08:16:00 [com.wakanda-software.Wakanday2012.Javascript] INFO - Database opened (duration: 4 ms)
+2012-10-08 08:16:00 [com.wakanda-software.Wakanday2012.Javascript] INFO - Project opened (duration: 11 ms)
+2012-10-08 08:16:00 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-10-08 08:16:00 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 6 ms)
+2012-10-08 08:16:00 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 155 ms)
+2012-10-08 08:16:00 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-10-08 08:16:00 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-10-08 08:16:01 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-10-08 08:16:01 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 23 ms)
+2012-10-08 08:16:01 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 72 ms)
+2012-10-08 08:16:01 [com.wakanda-software.Wakanday2012.Javascript] INFO - Starting the project
+2012-10-08 08:16:01 [com.wakanda-software.Wakanday2012.Javascript] INFO - Starting the HTTP server
+2012-10-08 08:16:01 [com.wakanda-software.Wakanday2012.Javascript] INFO - HTTP server started (duration: 27 ms)
+2012-10-08 08:16:01 [com.wakanda-software.Wakanday2012.Javascript] INFO - Project started (duration: 69 ms)
+2012-10-08 08:16:01 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-10-08 08:16:01 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-10-08 08:16:01 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 31 ms)
+2012-10-08 08:16:01 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 75 ms)
+2012-10-08 08:16:01 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-10-08 08:16:01 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-10-08 08:16:01 [com.wakanda-software.Wakanday2012.Javascript] INFO - Executing the bootstrap(s)
+2012-10-08 08:16:01 [com.wakanda-software.Wakanday2012.Javascript] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-10-08 08:16:01 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-10-08 08:16:01 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2012-10-08 08:16:01 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 226 ms)
+2012-10-08 08:17:39 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-10-08 08:17:39 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-10-08 08:17:40 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1055 ms)
+2012-10-08 08:17:40 [com.wakanda-software.Wakanday2012.Javascript] INFO - Stopping the project
+2012-10-08 08:17:42 [com.wakanda-software.Wakanday2012.Javascript] INFO - Project stopped (duration: 2056 ms)
+2012-10-08 08:17:42 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-10-08 08:17:45 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2062 ms)
+2012-10-08 08:17:45 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 5174 ms)
+2012-10-08 08:17:45 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-10-08 08:17:45 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-10-08 08:17:45 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-10-08 08:17:45 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 405 ms)
+2012-10-08 08:17:45 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 405 ms)
+2012-10-08 08:17:45 [com.wakanda-software.Wakanday2012.Javascript] INFO - Closing the project
+2012-10-08 08:17:45 [com.wakanda-software.Wakanday2012.Javascript] INFO - Closing the database
+2012-10-08 08:17:45 [com.wakanda-software.Wakanday2012.Javascript] INFO - Database closed (duration: 404 ms)
+2012-10-08 08:17:45 [com.wakanda-software.Wakanday2012.Javascript] INFO - Project closed (duration: 406 ms)
+2012-10-08 08:17:45 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-10-08 08:17:45 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 1 ms)
+2012-10-08 08:17:46 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1216 ms)
+2012-10-08 08:19:13 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-10-08 08:19:13 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-10-08 08:19:13 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 10 ms)
+2012-10-08 08:19:13 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-10-08 08:19:13 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-10-08 08:19:13 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 7 ms)
+2012-10-08 08:19:13 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 17 ms)
+2012-10-08 08:19:13 [com.wakanda-software.Wakanday2012.Javascript] INFO - Opening the project
+2012-10-08 08:19:13 [com.wakanda-software.Wakanday2012.Javascript] INFO - Opening the database
+2012-10-08 08:19:13 [com.wakanda-software.Wakanday2012.Javascript] INFO - Database opened (duration: 4 ms)
+2012-10-08 08:19:13 [com.wakanda-software.Wakanday2012.Javascript] INFO - Project opened (duration: 9 ms)
+2012-10-08 08:19:13 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-10-08 08:19:13 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 5 ms)
+2012-10-08 08:19:13 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 75 ms)
+2012-10-08 08:19:13 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-10-08 08:19:13 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-10-08 08:19:13 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-10-08 08:19:14 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 22 ms)
+2012-10-08 08:19:14 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 69 ms)
+2012-10-08 08:19:14 [com.wakanda-software.Wakanday2012.Javascript] INFO - Starting the project
+2012-10-08 08:19:14 [com.wakanda-software.Wakanday2012.Javascript] INFO - Starting the HTTP server
+2012-10-08 08:19:14 [com.wakanda-software.Wakanday2012.Javascript] INFO - HTTP server started (duration: 28 ms)
+2012-10-08 08:19:14 [com.wakanda-software.Wakanday2012.Javascript] INFO - Project started (duration: 68 ms)
+2012-10-08 08:19:14 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-10-08 08:19:14 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-10-08 08:19:14 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 31 ms)
+2012-10-08 08:19:14 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 77 ms)
+2012-10-08 08:19:14 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-10-08 08:19:14 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-10-08 08:19:14 [com.wakanda-software.Wakanday2012.Javascript] INFO - Executing the bootstrap(s)
+2012-10-08 08:19:14 [com.wakanda-software.Wakanday2012.Javascript] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-10-08 08:19:14 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-10-08 08:19:14 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2012-10-08 08:19:14 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 225 ms)
+2012-10-08 10:02:17 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [1] Error on line 55. SyntaxError: Unexpected token '(', HTTP connection handler
+2012-10-08 10:02:17 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [2] Error evaluating javascript file:///Volumes/Macintosh HD/Users/DavidRobbins/Desktop/Wakanday 2012/Javascript/2.functions101.js, HTTP connection handler
+2012-10-08 10:36:15 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [1] Error on line 91. SyntaxError: Unexpected token ')', HTTP connection handler
+2012-10-08 10:36:15 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [2] Error evaluating javascript file:///Volumes/Macintosh HD/Users/DavidRobbins/Desktop/Wakanday 2012/Javascript/2.functions101.js, HTTP connection handler
+2012-10-08 10:36:43 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [1] Error on line 91. SyntaxError: Unexpected token ')', HTTP connection handler
+2012-10-08 10:36:43 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [2] Error evaluating javascript file:///Volumes/Macintosh HD/Users/DavidRobbins/Desktop/Wakanday 2012/Javascript/2.functions101.js, HTTP connection handler
+2012-10-08 10:42:50 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [1] Error on line 105. SyntaxError: Expected token ')', HTTP connection handler
+2012-10-08 10:42:50 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [2] Error evaluating javascript file:///Volumes/Macintosh HD/Users/DavidRobbins/Desktop/Wakanday 2012/Javascript/2.functions101.js, HTTP connection handler
+2012-10-08 10:43:07 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [1] Error on line 105. SyntaxError: Unexpected number '2', HTTP connection handler
+2012-10-08 10:43:07 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [2] Error evaluating javascript file:///Volumes/Macintosh HD/Users/DavidRobbins/Desktop/Wakanday 2012/Javascript/2.functions101.js, HTTP connection handler
+2012-10-08 10:47:18 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-10-08 10:47:18 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-10-08 10:47:18 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [1] TypeError: 'undefined' is not a function (evaluating 'doSomething(2, 4)'), HTTP connection handler
+2012-10-08 10:47:18 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [2] Error evaluating javascript file:///Volumes/Macintosh HD/Users/DavidRobbins/Desktop/Wakanday 2012/Javascript/2.functions101.js, HTTP connection handler
+2012-10-08 10:47:18 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [1] TypeError: 'undefined' is not a function (evaluating 'doSomething(2, 4)'), HTTP connection handler
+2012-10-08 10:47:18 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [2] Error evaluating javascript file:///Volumes/Macintosh HD/Users/DavidRobbins/Desktop/Wakanday 2012/Javascript/2.functions101.js, HTTP connection handler
+2012-10-08 10:47:19 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1050 ms)
+2012-10-08 10:47:19 [com.wakanda-software.Wakanday2012.Javascript] INFO - Stopping the project
+2012-10-08 10:47:21 [com.wakanda-software.Wakanday2012.Javascript] INFO - Project stopped (duration: 2057 ms)
+2012-10-08 10:47:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-10-08 10:47:23 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2060 ms)
+2012-10-08 10:47:23 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 5168 ms)
+2012-10-08 10:47:23 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-10-08 10:47:23 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-10-08 10:47:23 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-10-08 10:47:23 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 407 ms)
+2012-10-08 10:47:23 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 407 ms)
+2012-10-08 10:47:23 [com.wakanda-software.Wakanday2012.Javascript] INFO - Closing the project
+2012-10-08 10:47:23 [com.wakanda-software.Wakanday2012.Javascript] INFO - Closing the database
+2012-10-08 10:47:24 [com.wakanda-software.Wakanday2012.Javascript] INFO - Database closed (duration: 405 ms)
+2012-10-08 10:47:24 [com.wakanda-software.Wakanday2012.Javascript] INFO - Project closed (duration: 405 ms)
+2012-10-08 10:47:24 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-10-08 10:47:24 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 4 ms)
+2012-10-08 10:47:24 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1225 ms)
