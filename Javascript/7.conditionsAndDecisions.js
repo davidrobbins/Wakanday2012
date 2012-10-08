@@ -1,0 +1,1 @@
+﻿﻿﻿/* Javascript Fundementals *//* 7. Conditions and Decisions *//* You guys know this already. */if (true) {	// do something} else {	//do something else}
