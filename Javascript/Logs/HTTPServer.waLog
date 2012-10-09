@@ -338,3 +338,22 @@
 206 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=32A1088AF93A498A9A74239441D09D13" "127.0.0.1:8082" "" "" - POST ::ffff:127.0.0.1 500 /debug/eval/file - /debug/eval/file 2012-10-08 23:33:46 23:33:46 4165067
 168 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=2ED58CBAD16F41658C99B87966DC5982" "127.0.0.1:8082" "" "" - POST ::ffff:127.0.0.1 500 /debug/eval/file - /debug/eval/file 2012-10-08 23:33:46 23:33:46 1056430
 162 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=CC473F6698694788A4A2B0B3882C798F" "127.0.0.1:8082" "" "" - POST ::ffff:127.0.0.1 500 /debug/eval/file - /debug/eval/file 2012-10-08 23:33:46 23:33:46 14783616
+#Version: 1.0
+#Software: Wakanda/3.0 build 3.119656 (MacOS-x64)
+#Date: 2012-10-08 16:49:51
+#Remark: format ELF
+#Fields: BYTES_SENT CS-CDNS C-IP CS(COOKIE) CS(HOST) CS(REFERER) CS(USER-AGENT) USER METHOD CS-SIP SC-STATUS CS-URI CS-URI-QUERY CS-URI-STEM DATE TIME TIME-TAKEN
+16 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "" "127.0.0.1:8082" "" "" - POST ::ffff:127.0.0.1 200 /rest/$directory/login/ - /rest/$directory/login/ 2012-10-08 23:49:51 23:49:51 5
+26 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=F1B4A89F86974FD3BB1073B4D2F0A850" "127.0.0.1:8082" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2012-10-08 23:49:51 23:49:51 5
+33 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=F1B4A89F86974FD3BB1073B4D2F0A850" "127.0.0.1:8082" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2012-10-08 23:52:28 23:52:28 10
+1 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=F1B4A89F86974FD3BB1073B4D2F0A850" "127.0.0.1:8082" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2012-10-08 23:58:59 23:58:59 6
+1 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=F1B4A89F86974FD3BB1073B4D2F0A850" "127.0.0.1:8082" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2012-10-08 23:59:25 23:59:25 6
+27 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=F1B4A89F86974FD3BB1073B4D2F0A850" "127.0.0.1:8082" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2012-10-08 23:59:50 23:59:50 9
+9 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=F1B4A89F86974FD3BB1073B4D2F0A850" "127.0.0.1:8082" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2012-10-09 00:01:49 00:01:49 6
+9 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=F1B4A89F86974FD3BB1073B4D2F0A850" "127.0.0.1:8082" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2012-10-09 00:02:17 00:02:17 5
+775 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "" "127.0.0.1:8082" "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.79 Safari/537.4" - GET ::ffff:127.0.0.1 200 /scope.waPage/advancedFunctions.waPage/index.html - /scope.waPage/advancedFunctions.waPage/index.html 2012-10-09 00:10:40 00:10:40 131
+0 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "" "127.0.0.1:8082" "http://127.0.0.1:8082/scope.waPage/advancedFunctions.waPage/index.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.79 Safari/537.4" - GET ::ffff:127.0.0.1 304 /application.css - /application.css 2012-10-09 00:10:41 00:10:41 185
+320 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "" "127.0.0.1:8082" "http://127.0.0.1:8082/scope.waPage/advancedFunctions.waPage/index.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.79 Safari/537.4" - GET ::ffff:127.0.0.1 200 /scope.waPage/advancedFunctions.waPage/styles/index.css - /scope.waPage/advancedFunctions.waPage/styles/index.css 2012-10-09 00:10:41 00:10:41 56
+572 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "" "127.0.0.1:8082" "http://127.0.0.1:8082/scope.waPage/advancedFunctions.waPage/index.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.79 Safari/537.4" - GET ::ffff:127.0.0.1 200 /scope.waPage/advancedFunctions.waPage/scripts/index.js - /scope.waPage/advancedFunctions.waPage/scripts/index.js 2012-10-09 00:10:41 00:10:41 277
+584 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "" "127.0.0.1:8082" "http://127.0.0.1:8082/scope.waPage/advancedFunctions.waPage/index.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.79 Safari/537.4" - GET ::ffff:127.0.0.1 200 /rest/$catalog/$all/ - /rest/$catalog/$all/ 2012-10-09 00:10:41 00:10:41 42
+205 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=F1B4A89F86974FD3BB1073B4D2F0A850" "127.0.0.1:8082" "" "" - POST ::ffff:127.0.0.1 500 /debug/eval/file - /debug/eval/file 2012-10-09 00:25:39 00:25:39 2004254
