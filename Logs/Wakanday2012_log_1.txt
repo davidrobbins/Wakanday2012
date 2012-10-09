@@ -1841,3 +1841,245 @@
 2012-10-09 09:08:37 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
 2012-10-09 09:08:37 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 3 ms)
 2012-10-09 09:08:37 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1230 ms)
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 15 ms)
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 6 ms)
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 16 ms)
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012.Javascript] INFO - Opening the project
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012.Javascript] INFO - Opening the database
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012.Javascript] INFO - Database opened (duration: 4 ms)
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012.Javascript] INFO - Project opened (duration: 11 ms)
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 6 ms)
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 86 ms)
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 22 ms)
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 75 ms)
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012.Javascript] INFO - Starting the project
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012.Javascript] INFO - Starting the HTTP server
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012.Javascript] INFO - HTTP server started (duration: 26 ms)
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012.Javascript] INFO - Project started (duration: 64 ms)
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 30 ms)
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 77 ms)
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012.Javascript] INFO - Executing the bootstrap(s)
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012.Javascript] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 8 ms)
+2012-10-09 09:13:28 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 225 ms)
+2012-10-09 09:27:25 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [1] Error on line 18. SyntaxError: Expected an identifier but found 'value' instead, HTTP connection handler
+2012-10-09 09:27:25 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [2] Error evaluating javascript file:///Volumes/Macintosh HD/Users/DavidRobbins/github/Wakanday 2012/Javascript/10.advancedArrays.js, HTTP connection handler
+2012-10-09 10:58:50 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [1] Error on line 42. SyntaxError: Return statements are only valid inside functions, HTTP connection handler
+2012-10-09 10:58:50 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [2] Error evaluating javascript file:///Volumes/Macintosh HD/Users/DavidRobbins/github/Wakanday 2012/Javascript/10.advancedArrays.js, HTTP connection handler
+2012-10-09 10:58:56 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-10-09 10:58:56 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-10-09 10:58:56 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [1] TypeError: 'undefined' is not a function (evaluating 'fruit.isLengthOfOne(isString)'), HTTP connection handler
+2012-10-09 10:58:56 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [2] Error evaluating javascript file:///Volumes/Macintosh HD/Users/DavidRobbins/github/Wakanday 2012/Javascript/10.advancedArrays.js, HTTP connection handler
+2012-10-09 10:58:57 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1048 ms)
+2012-10-09 10:58:57 [com.wakanda-software.Wakanday2012.Javascript] INFO - Stopping the project
+2012-10-09 10:58:59 [com.wakanda-software.Wakanday2012.Javascript] INFO - Project stopped (duration: 2054 ms)
+2012-10-09 10:58:59 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-10-09 10:59:01 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2055 ms)
+2012-10-09 10:59:01 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 5158 ms)
+2012-10-09 10:59:01 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-10-09 10:59:01 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-10-09 10:59:01 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-10-09 10:59:01 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 406 ms)
+2012-10-09 10:59:01 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 406 ms)
+2012-10-09 10:59:01 [com.wakanda-software.Wakanday2012.Javascript] INFO - Closing the project
+2012-10-09 10:59:01 [com.wakanda-software.Wakanday2012.Javascript] INFO - Closing the database
+2012-10-09 10:59:02 [com.wakanda-software.Wakanday2012.Javascript] INFO - Database closed (duration: 406 ms)
+2012-10-09 10:59:02 [com.wakanda-software.Wakanday2012.Javascript] INFO - Project closed (duration: 406 ms)
+2012-10-09 10:59:02 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-10-09 10:59:02 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 2 ms)
+2012-10-09 10:59:02 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1222 ms)
+2012-10-09 10:59:37 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-10-09 10:59:37 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-10-09 10:59:37 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 14 ms)
+2012-10-09 10:59:37 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-10-09 10:59:37 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-10-09 10:59:37 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 10 ms)
+2012-10-09 10:59:37 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 34 ms)
+2012-10-09 10:59:37 [com.wakanda-software.Wakanday2012.Javascript] INFO - Opening the project
+2012-10-09 10:59:37 [com.wakanda-software.Wakanday2012.Javascript] INFO - Opening the database
+2012-10-09 10:59:37 [com.wakanda-software.Wakanday2012.Javascript] INFO - Database opened (duration: 22 ms)
+2012-10-09 10:59:37 [com.wakanda-software.Wakanday2012.Javascript] INFO - Project opened (duration: 29 ms)
+2012-10-09 10:59:38 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-10-09 10:59:38 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 17 ms)
+2012-10-09 10:59:38 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 135 ms)
+2012-10-09 10:59:38 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-10-09 10:59:38 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-10-09 10:59:38 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-10-09 10:59:38 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 22 ms)
+2012-10-09 10:59:38 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 70 ms)
+2012-10-09 10:59:38 [com.wakanda-software.Wakanday2012.Javascript] INFO - Starting the project
+2012-10-09 10:59:38 [com.wakanda-software.Wakanday2012.Javascript] INFO - Starting the HTTP server
+2012-10-09 10:59:38 [com.wakanda-software.Wakanday2012.Javascript] INFO - HTTP server started (duration: 26 ms)
+2012-10-09 10:59:38 [com.wakanda-software.Wakanday2012.Javascript] INFO - Project started (duration: 63 ms)
+2012-10-09 10:59:38 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-10-09 10:59:38 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-10-09 10:59:38 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 28 ms)
+2012-10-09 10:59:38 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 85 ms)
+2012-10-09 10:59:38 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-10-09 10:59:38 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-10-09 10:59:38 [com.wakanda-software.Wakanday2012.Javascript] INFO - Executing the bootstrap(s)
+2012-10-09 10:59:38 [com.wakanda-software.Wakanday2012.Javascript] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-10-09 10:59:38 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-10-09 10:59:38 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 8 ms)
+2012-10-09 10:59:38 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 228 ms)
+2012-10-09 10:59:44 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [1] Error on line 42. SyntaxError: Return statements are only valid inside functions, HTTP connection handler
+2012-10-09 10:59:44 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [2] Error evaluating javascript file:///Volumes/Macintosh HD/Users/DavidRobbins/github/Wakanday 2012/Javascript/10.advancedArrays.js, HTTP connection handler
+2012-10-09 11:00:09 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [1] Error on line 42. SyntaxError: Return statements are only valid inside functions, HTTP connection handler
+2012-10-09 11:00:09 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [2] Error evaluating javascript file:///Volumes/Macintosh HD/Users/DavidRobbins/github/Wakanday 2012/Javascript/10.advancedArrays.js, HTTP connection handler
+2012-10-09 11:01:42 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [1] Error on line 42. SyntaxError: Return statements are only valid inside functions, HTTP connection handler
+2012-10-09 11:01:42 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [2] Error evaluating javascript file:///Volumes/Macintosh HD/Users/DavidRobbins/github/Wakanday 2012/Javascript/10.advancedArrays.js, HTTP connection handler
+2012-10-09 11:01:46 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-10-09 11:01:46 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-10-09 11:01:47 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1048 ms)
+2012-10-09 11:01:47 [com.wakanda-software.Wakanday2012.Javascript] INFO - Stopping the project
+2012-10-09 11:01:49 [com.wakanda-software.Wakanday2012.Javascript] INFO - Project stopped (duration: 2054 ms)
+2012-10-09 11:01:49 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-10-09 11:01:51 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2057 ms)
+2012-10-09 11:01:51 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 5160 ms)
+2012-10-09 11:01:51 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-10-09 11:01:51 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-10-09 11:01:51 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-10-09 11:01:52 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 404 ms)
+2012-10-09 11:01:52 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 404 ms)
+2012-10-09 11:01:52 [com.wakanda-software.Wakanday2012.Javascript] INFO - Closing the project
+2012-10-09 11:01:52 [com.wakanda-software.Wakanday2012.Javascript] INFO - Closing the database
+2012-10-09 11:01:52 [com.wakanda-software.Wakanday2012.Javascript] INFO - Database closed (duration: 406 ms)
+2012-10-09 11:01:52 [com.wakanda-software.Wakanday2012.Javascript] INFO - Project closed (duration: 407 ms)
+2012-10-09 11:01:52 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-10-09 11:01:52 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 1 ms)
+2012-10-09 11:01:52 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1220 ms)
+2012-10-09 11:02:20 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-10-09 11:02:20 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 288 ms)
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 46 ms)
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 61 ms)
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012.Javascript] INFO - Opening the project
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012.Javascript] INFO - Opening the database
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012.Javascript] INFO - Database opened (duration: 4 ms)
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012.Javascript] INFO - Project opened (duration: 11 ms)
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 5 ms)
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 393 ms)
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 22 ms)
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 64 ms)
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012.Javascript] INFO - Starting the project
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012.Javascript] INFO - Starting the HTTP server
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012.Javascript] INFO - HTTP server started (duration: 27 ms)
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012.Javascript] INFO - Project started (duration: 64 ms)
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 28 ms)
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 68 ms)
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012.Javascript] INFO - Executing the bootstrap(s)
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012.Javascript] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 8 ms)
+2012-10-09 11:02:21 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 207 ms)
+2012-10-09 11:02:25 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [1] Error on line 42. SyntaxError: Return statements are only valid inside functions, HTTP connection handler
+2012-10-09 11:02:25 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [2] Error evaluating javascript file:///Volumes/Macintosh HD/Users/DavidRobbins/github/Wakanday 2012/Javascript/10.advancedArrays.js, HTTP connection handler
+2012-10-09 11:03:08 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [1] Error on line 42. SyntaxError: Return statements are only valid inside functions, HTTP connection handler
+2012-10-09 11:03:08 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [2] Error evaluating javascript file:///Volumes/Macintosh HD/Users/DavidRobbins/github/Wakanday 2012/Javascript/10.advancedArrays.js, HTTP connection handler
+2012-10-09 11:03:23 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [1] Error on line 42. SyntaxError: Return statements are only valid inside functions, HTTP connection handler
+2012-10-09 11:03:23 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [2] Error evaluating javascript file:///Volumes/Macintosh HD/Users/DavidRobbins/github/Wakanday 2012/Javascript/10.advancedArrays.js, HTTP connection handler
+2012-10-09 11:03:47 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-10-09 11:03:47 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-10-09 11:03:48 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1050 ms)
+2012-10-09 11:03:48 [com.wakanda-software.Wakanday2012.Javascript] INFO - Stopping the project
+2012-10-09 11:03:50 [com.wakanda-software.Wakanday2012.Javascript] INFO - Project stopped (duration: 2053 ms)
+2012-10-09 11:03:50 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-10-09 11:03:52 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2058 ms)
+2012-10-09 11:03:52 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 5161 ms)
+2012-10-09 11:03:52 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-10-09 11:03:52 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-10-09 11:03:52 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-10-09 11:03:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 453 ms)
+2012-10-09 11:03:53 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 453 ms)
+2012-10-09 11:03:53 [com.wakanda-software.Wakanday2012.Javascript] INFO - Closing the project
+2012-10-09 11:03:53 [com.wakanda-software.Wakanday2012.Javascript] INFO - Closing the database
+2012-10-09 11:03:53 [com.wakanda-software.Wakanday2012.Javascript] INFO - Database closed (duration: 404 ms)
+2012-10-09 11:03:53 [com.wakanda-software.Wakanday2012.Javascript] INFO - Project closed (duration: 406 ms)
+2012-10-09 11:03:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-10-09 11:03:53 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 1 ms)
+2012-10-09 11:03:53 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1267 ms)
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012] INFO - Opening the solution
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012] INFO - Opening the users and groups directory
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012] INFO - Users and groups directory opened (duration: 65 ms)
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the project
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012.jQuery] INFO - Opening the database
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database opened (duration: 6 ms)
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project opened (duration: 16 ms)
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012.Javascript] INFO - Opening the project
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012.Javascript] INFO - Opening the database
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012.Javascript] INFO - Database opened (duration: 5 ms)
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012.Javascript] INFO - Project opened (duration: 13 ms)
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Opening the project
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project opened (duration: 5 ms)
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012] INFO - Solution opened (duration: 131 ms)
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012] INFO - Starting the solution
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the project
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012.jQuery] INFO - Starting the HTTP server
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012.jQuery] INFO - HTTP server started (duration: 22 ms)
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project started (duration: 64 ms)
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012.Javascript] INFO - Starting the project
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012.Javascript] INFO - Starting the HTTP server
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012.Javascript] INFO - HTTP server started (duration: 27 ms)
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012.Javascript] INFO - Project started (duration: 65 ms)
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the project
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Starting the HTTP server
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - HTTP server started (duration: 29 ms)
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project started (duration: 70 ms)
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012.jQuery] INFO - Executing the bootstrap(s)
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012.jQuery] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012.Javascript] INFO - Executing the bootstrap(s)
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012.Javascript] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Bootstrap(s) executed (duration: 8 ms)
+2012-10-09 11:04:36 [com.wakanda-software.Wakanday2012] INFO - Solution started (duration: 210 ms)
+2012-10-09 11:19:10 [com.wakanda-software.Wakanday2012] INFO - Stopping the solution
+2012-10-09 11:19:10 [com.wakanda-software.Wakanday2012.jQuery] INFO - Stopping the project
+2012-10-09 11:19:10 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [1] ReferenceError: Can't find variable: changeFirstLetterToZ, HTTP connection handler
+2012-10-09 11:19:10 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [1] TypeError: 'undefined' is not an object (evaluating 'array[index]'), HTTP connection handler
+2012-10-09 11:19:10 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [2] Error evaluating javascript file:///Volumes/Macintosh HD/Users/DavidRobbins/github/Wakanday 2012/Javascript/10.advancedArrays.js, HTTP connection handler
+2012-10-09 11:19:10 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [1] TypeError: 'undefined' is not an object (evaluating 'array[index] = "z"'), HTTP connection handler
+2012-10-09 11:19:10 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [1] ReferenceError: Can't find variable: fruits, HTTP connection handler
+2012-10-09 11:19:10 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [2] Error evaluating javascript file:///Volumes/Macintosh HD/Users/DavidRobbins/github/Wakanday 2012/Javascript/10.advancedArrays.js, HTTP connection handler
+2012-10-09 11:19:10 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [2] Error evaluating javascript file:///Volumes/Macintosh HD/Users/DavidRobbins/github/Wakanday 2012/Javascript/10.advancedArrays.js, HTTP connection handler
+2012-10-09 11:19:10 [com.wakanda-software.Wakanday2012.Javascript.JS4D] ERROR - [2] Error evaluating javascript file:///Volumes/Macintosh HD/Users/DavidRobbins/github/Wakanday 2012/Javascript/10.advancedArrays.js, HTTP connection handler
+2012-10-09 11:19:11 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project stopped (duration: 1051 ms)
+2012-10-09 11:19:11 [com.wakanda-software.Wakanday2012.Javascript] INFO - Stopping the project
+2012-10-09 11:19:13 [com.wakanda-software.Wakanday2012.Javascript] INFO - Project stopped (duration: 2065 ms)
+2012-10-09 11:19:13 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Stopping the project
+2012-10-09 11:19:15 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project stopped (duration: 2060 ms)
+2012-10-09 11:19:15 [com.wakanda-software.Wakanday2012] INFO - Solution stopped (duration: 5177 ms)
+2012-10-09 11:19:15 [com.wakanda-software.Wakanday2012] INFO - Closing the solution
+2012-10-09 11:19:15 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the project
+2012-10-09 11:19:15 [com.wakanda-software.Wakanday2012.jQuery] INFO - Closing the database
+2012-10-09 11:19:15 [com.wakanda-software.Wakanday2012.jQuery] INFO - Database closed (duration: 410 ms)
+2012-10-09 11:19:15 [com.wakanda-software.Wakanday2012.jQuery] INFO - Project closed (duration: 411 ms)
+2012-10-09 11:19:15 [com.wakanda-software.Wakanday2012.Javascript] INFO - Closing the project
+2012-10-09 11:19:15 [com.wakanda-software.Wakanday2012.Javascript] INFO - Closing the database
+2012-10-09 11:19:16 [com.wakanda-software.Wakanday2012.Javascript] INFO - Database closed (duration: 414 ms)
+2012-10-09 11:19:16 [com.wakanda-software.Wakanday2012.Javascript] INFO - Project closed (duration: 414 ms)
+2012-10-09 11:19:16 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Closing the project
+2012-10-09 11:19:16 [com.wakanda-software.Wakanday2012.ServerAdmin] INFO - Project closed (duration: 60 ms)
+2012-10-09 11:19:16 [com.wakanda-software.Wakanday2012] INFO - Solution closed (duration: 1298 ms)
