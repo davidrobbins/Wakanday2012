@@ -15,7 +15,9 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 		$('ul').css('margin-left', '10px');
 		$('dd').css('padding', '4px');
 		$('dt').css('padding', '4px');
-		$('#container3, #container4, , #container5, #container6').css('opacity', .2);
+		$('#container3, #container4, , #container5, #container6').css('opacity', .1);
+		
+		
 		
 		//What is jQuery?
 		// A fast, concise, library that simplifies how to traverse HTML documents (DOM), 
@@ -37,7 +39,7 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 		
 		
 		//Let's Query The DOM.
-		$('#container3').css('opacity', 1);
+		//$('#container3').css('opacity', 1);
 		//var uls = $('ul');
 		//Trace this in debugger.
 		//From debugger console try : uls[0].parentNode, uls[0].innerHTML
@@ -102,9 +104,54 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 		
 		
 		//Basic Event Handling
-		$('#container3').css('opacity', .2);
-		$('#container4').css('opacity', 1);
+//		$('#container3').css('opacity', .2);
+//		$('#container4').css('opacity', 1);
 		
+		
+		/*
+		$('#container4 button').on('click', function() {
+			alert('a button was clicked');
+		});
+		*/
+		
+		
+		//Don't jump into the DOM everytime we click a button.
+		//var myEvents101Container = $("#container4");
+		
+		
+		
+		/*
+		$('#container4 button').on('click', function() {
+			//console.log(this); //this refers to the target of our event.
+			
+			//If we want access to jQuery's methods we need to wrap this.
+			//console.log($(this));
+			//this.text("changed"); //causes error
+			
+			//BEST PRACTICE - cache our query - don't make jQuery travers the DOM more than once 
+			// for the same thing.
+//			var $this = $(this);
+//			var myEvents101Container = $("#container4");
+//			
+//			myEvents101Container.css("background", "yellow");
+			
+			//We have set HTML5 custom data attributes on both our buttons.
+			//Note: when passing one parameter to the attr method is gets instead of sets.
+//			var theBackgroundColor = $this.attr("data-color"); 
+//			console.log(theBackgroundColor);
+//			var theBackgroundColor = $this.data("color"); 
+//			myEvents101Container.css("background", theBackgroundColor);
+			
+			//Now let's disable the button after we change the background color.
+//			var buttonID = $this.attr('id');
+//			$$(buttonID).disable();
+//			var otherButtonID = $this.siblings('button').attr('id');
+//			$$(otherButtonID).enable();
+		});
+		*/
+		
+		
+		//Finished Product
 		/*
 		$('#container4 button').on('click', function() {
 			var $this = $(this);
@@ -121,58 +168,27 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 		*/
 		
 		
-		//Don't jump into the DOM everytime we click a button.
-		var myEvents101Container = $("#container4");
 		
-//		$('#container4 button').on('click', function() {
-//			alert('a button was clicked');
-//		});
 		
-//		$('#container4 button').on('click', function() {
-//			alert('I just got clicked.');
-			//this refers to the target of our event.
-//			console.log(this);
-			
-			//If we want access to jQuery's methods we need to wrap this.
-//			console.log($(this));
-//			this.text("changed"); //causes error
-			
-			//BEST PRACTICE - cache our query - don't make jQuery travers the DOM more than once 
-			// for the same thing.
-			//var $this = $(this);
-			//var myEvents101Container = $("#container4");
-			
-//			myEvents101Container.css("background", "yellow");
-			
-			//We have set HTML5 custom data attributes on both our buttons.
-			//Note: when passing one parameter to the attr method is gets instead of sets.
-//			var theBackgroundColor = $this.attr("data-color"); 
-//			var theBackgroundColor = $this.data("color"); 
-//			myEvents101Container.css("background", theBackgroundColor);
-			
-			//Now let's disable the button after we change the background color.
-//			var buttonID = $this.attr('id');
-//			$$(buttonID).disable();
-//			var otherButtonID = $this.siblings('button').attr('id');
-//			$$(otherButtonID).enable();
-//		});
+		
 		
 		
 		
 		
 		
 		//Spiderman
-		$('#container3').css('opacity', .2);
-		$('#container4').css('opacity', .2);
-		$('#container5').css('opacity', 1);
-//		
+		//http://eldelgado.deviantart.com/
+		//$('#container3').css('opacity', .2);
+		//$('#container4').css('opacity', .2);
+		//$('#container5').css('opacity', 1);
+		
 		//First let's hide all the definition details.
-		var dd = $('dd');
-//		dd.hide();
+		//var dd = $('dd');
+		//dd.hide();
 		
 		//Ok let's hide all but the first one using the jQuery filter() method.
 		// filter() will only pass along elements that match the filter.
-		dd.filter(':nth-child(n+4)').hide();
+		//dd.filter(':nth-child(n+4)').hide();
 		
 		//Let's show a definition description when the user hovers over a definition term.
 		//So let's create an event handler for our the <dt> elements.
@@ -208,14 +224,14 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 		
 		//We are attaching an event listener to every <dt>.
 		// What if we had 100 definition terms.
-		/**/
+		/*
 		$('dl').on('mouseenter', 'dt', function() {
 			$this = $(this);
 			$this.next()
 				.slideDown(300)
 				.siblings('dd').slideUp(300);
 		});
-		
+		*/
 		
 		
 		
