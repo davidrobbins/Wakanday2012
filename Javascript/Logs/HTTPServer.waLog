@@ -1650,3 +1650,16 @@
 27336 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=96031ACA9EC84BF6A08DE9337C5420F6" "127.0.0.1:8082" "http://127.0.0.1:8082/presentation.waPage/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.79 Safari/537.4" - GET ::ffff:127.0.0.1 200 /walib/WAF/fonts/DroidSans.ttf - /walib/WAF/fonts/DroidSans.ttf 2012-10-15 19:46:21 19:46:21 95
 28385 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=96031ACA9EC84BF6A08DE9337C5420F6" "127.0.0.1:8082" "http://127.0.0.1:8082/presentation.waPage/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.79 Safari/537.4" - GET ::ffff:127.0.0.1 200 /walib/WAF/fonts/DroidSans-Bold.ttf - /walib/WAF/fonts/DroidSans-Bold.ttf 2012-10-15 19:46:21 19:46:21 87
 21275 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=96031ACA9EC84BF6A08DE9337C5420F6" "127.0.0.1:8082" "http://127.0.0.1:8082/presentation.waPage/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.79 Safari/537.4" - GET ::ffff:127.0.0.1 200 /presentation.waPage/revealJS/lib/font/league_gothic-webfont.woff - /presentation.waPage/revealJS/lib/font/league_gothic-webfont.woff 2012-10-15 19:46:21 19:46:21 1776
+#Version: 1.0
+#Software: Wakanda/Dev build 0.118752 (MacOS-x64)
+#Date: 2012-10-26 06:15:33
+#Remark: format ELF
+#Fields: BYTES_SENT CS-CDNS C-IP CS(COOKIE) CS(HOST) CS(REFERER) CS(USER-AGENT) USER METHOD CS-SIP SC-STATUS CS-URI CS-URI-QUERY CS-URI-STEM DATE TIME TIME-TAKEN
+16 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "" "127.0.0.1:8082" "" "" - POST ::ffff:127.0.0.1 200 /rest/$directory/login/ - /rest/$directory/login/ 2012-10-26 13:15:33 13:15:33 6
+1 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=05C634FB6A0C4CB9A40A093A7A5D9AEE" "127.0.0.1:8082" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2012-10-26 13:15:59 13:15:59 7
+1 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=05C634FB6A0C4CB9A40A093A7A5D9AEE" "127.0.0.1:8082" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2012-10-26 13:16:10 13:16:10 7
+9 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=05C634FB6A0C4CB9A40A093A7A5D9AEE" "127.0.0.1:8082" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2012-10-26 13:16:32 13:16:32 6
+16 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "" "127.0.0.1:8082" "" "" - POST ::ffff:127.0.0.1 200 /rest/$directory/login/ - /rest/$directory/login/ 2012-10-26 13:23:07 13:23:07 1
+53 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=99F4F5BD5A4F46428F71E35CB0B32F27" "127.0.0.1:8082" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2012-10-26 13:23:07 13:23:07 6
+166 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=99F4F5BD5A4F46428F71E35CB0B32F27" "127.0.0.1:8082" "" "" - POST ::ffff:127.0.0.1 500 /debug/eval/file - /debug/eval/file 2012-10-26 13:26:04 13:26:04 122015
+166 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=05C634FB6A0C4CB9A40A093A7A5D9AEE" "127.0.0.1:8082" "" "" - POST ::ffff:127.0.0.1 500 /debug/eval/file - /debug/eval/file 2012-10-26 13:26:04 13:26:04 630475
