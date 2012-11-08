@@ -103,10 +103,15 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 		
 		
 		
+		
+		
+		
+		
+		
 		//Basic Event Handling
 //		$('#container3').css('opacity', .2);
 //		$('#container4').css('opacity', 1);
-		
+	
 		
 		/*
 		$('#container4 button').on('click', function() {
@@ -115,14 +120,9 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 		*/
 		
 		
-		//Don't jump into the DOM everytime we click a button.
-		//var myEvents101Container = $("#container4");
-		
-		
-		
 		/*
 		$('#container4 button').on('click', function() {
-			//console.log(this); //this refers to the target of our event.
+//			console.log(this); //this refers to the target of our event.
 			
 			//If we want access to jQuery's methods we need to wrap this.
 			//console.log($(this));
@@ -130,15 +130,14 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 			
 			//BEST PRACTICE - cache our query - don't make jQuery travers the DOM more than once 
 			// for the same thing.
-//			var $this = $(this);
-//			var myEvents101Container = $("#container4");
-//			
+			var $this = $(this);
+			var myEvents101Container = $("#container4");
+		
 //			myEvents101Container.css("background", "yellow");
 			
 			//We have set HTML5 custom data attributes on both our buttons.
 			//Note: when passing one parameter to the attr method is gets instead of sets.
 //			var theBackgroundColor = $this.attr("data-color"); 
-//			console.log(theBackgroundColor);
 //			var theBackgroundColor = $this.data("color"); 
 //			myEvents101Container.css("background", theBackgroundColor);
 			
@@ -148,7 +147,7 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 //			var otherButtonID = $this.siblings('button').attr('id');
 //			$$(otherButtonID).enable();
 		});
-		*/
+		*/	
 		
 		
 		//Finished Product
@@ -176,15 +175,20 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 		
 		
 		
+		
+		
+		
+		
+		
 		//Spiderman
 		//http://eldelgado.deviantart.com/
-		//$('#container3').css('opacity', .2);
-		//$('#container4').css('opacity', .2);
-		//$('#container5').css('opacity', 1);
+//		$('#container3').css('opacity', .2);
+//		$('#container4').css('opacity', .2);
+//		$('#container5').css('opacity', 1);
 		
 		//First let's hide all the definition details.
-		//var dd = $('dd');
-		//dd.hide();
+		var dd = $('dd');
+		dd.hide();
 		
 		//Ok let's hide all but the first one using the jQuery filter() method.
 		// filter() will only pass along elements that match the filter.
@@ -228,17 +232,22 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 		$('dl').on('mouseenter', 'dt', function() {
 			$this = $(this);
 			$this.next()
-				.slideDown(300)
-				.siblings('dd').slideUp(300);
+				.slideDown(900)
+				.siblings('dd').slideUp(900);
 		});
 		*/
 		
 		
 		
 		
+		
+		
+		
+		
+		
 		//Example from TechBase.
 //		$('#container5').css('opacity', .2);
-//		$('#container6').css('opacity', 1);
+		$('#container6').css('opacity', 1);
 		
 		//Let's attach event handlers to all the text fields so they can listen for a keyup.
 		/*
@@ -252,13 +261,13 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 		
 		//Instead of atttaching 4 event handlers we can attach on event handler to the parent
 		// and use a filter to see if the event target is a text field.
-		/*
+		/**/
 		$('#container7').on('keyup', '#container7 input', function (e) {
 	   		if ( e.keyCode == 13 ){
-	   			alert("you hit return and the container told me to alert you.");
+	   			console.log("you hit return and " + e.currentTarget.id + " told me to alert you.");
 	    	}
 		});
-		*/
+		
 	};// @lock
 
 // @region eventManager// @startlock
